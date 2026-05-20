@@ -463,9 +463,9 @@ def submit_doubt():
 
 # --- ADMIN DASHBOARD ROUTE ---
 # --- 1. ADMIN LOGIN PAGE ---
+# --- 1. ADMIN LOGIN PAGE ---
 @app.route('/admin_login', methods=['GET', 'POST'])
 def admin_login():
-    # Agar admin pehle se logged in hai, toh direct dashboard par bhejo
     if session.get('is_admin'):
         return redirect(url_for('admin_dashboard'))
 
@@ -473,16 +473,21 @@ def admin_login():
         username = request.form.get('username')
         password = request.form.get('password')
         
-        # BHAIA YAHAN TERA SECRET ID AUR PASSWORD HAI (Tu isko baad me change kar lena)
-        if username == 'nihalraj' and password == 'Nihal@123':
-            session['is_admin'] = True  # Admin ka session ON kar diya
+        # 🔥 SECURE ADMIN LOGIN (Password ab Render se aayega) 🔥
+        real_admin_pass = os.environ.get("ADMIN_PASSWORD")
+        
+        # Agar local laptop pe test kar raha hai, toh ye default password chalega
+        if not real_admin_pass:
+            real_admin_pass = "admin123"
+
+        if username == 'nihalraj' and password == real_admin_pass:
+            session['is_admin'] = True  
             flash('Welcome Mentor! You are logged in.', 'success')
             return redirect(url_for('admin_dashboard'))
         else:
             flash('Invalid Admin Credentials!', 'danger')
             
     return render_template('admin_login.html')
-
 # --- 2. ADMIN LOGOUT ---
 
 @app.route('/admin_logout')
