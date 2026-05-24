@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mentor Workspace | JEE Saathi</title>
 
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
@@ -24,38 +25,62 @@
             font-family: 'Poppins', sans-serif;
             background-color: var(--bg-gray);
             color: var(--text-main);
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            /* Footer ko bottom pe rakhne ke liye */
         }
 
         /* Mentor Navbar */
         .navbar {
             background-color: var(--primary-dark);
             padding: 15px 0;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
-        .navbar-brand { font-weight: 700; font-size: 1.5rem; color: var(--white) !important; }
-        .navbar-brand span { color: #4da3ff; }
-        .mentor-badge { background-color: rgba(255,255,255,0.1); color: var(--white); padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; font-weight: 500; }
+
+        .navbar-brand {
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: var(--white) !important;
+            letter-spacing: 1px;
+        }
+
+        .navbar-brand span {
+            color: #4da3ff;
+        }
+
+        .mentor-badge {
+            background-color: rgba(255, 255, 255, 0.1);
+            color: var(--white);
+            padding: 8px 18px;
+            border-radius: 20px;
+            font-size: 0.95rem;
+            font-weight: 500;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
 
         .page-header {
             padding: 40px 0 20px;
             border-bottom: 2px solid #e1e5eb;
             margin-bottom: 40px;
         }
-        
+
         /* Doubt Cards */
         .doubt-card {
             background: var(--white);
             border-radius: 15px;
             padding: 25px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.03);
-            border: 1px solid rgba(0,0,0,0.05);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.03);
+            border: 1px solid rgba(0, 0, 0, 0.05);
             margin-bottom: 25px;
             transition: 0.3s;
         }
+
         .doubt-card:hover {
             box-shadow: 0 10px 25px rgba(24, 90, 219, 0.08);
             border-color: var(--accent-light);
         }
+
         .doubt-header {
             display: flex;
             justify-content: space-between;
@@ -64,9 +89,22 @@
             padding-bottom: 15px;
             border-bottom: 1px dashed #eee;
         }
-        .student-name { font-weight: 700; color: var(--primary-dark); font-size: 1.15rem; }
-        .subject-tag { font-size: 0.85rem; background: var(--accent-light); color: var(--accent-blue); padding: 5px 12px; border-radius: 8px; font-weight: 600; }
-        
+
+        .student-name {
+            font-weight: 700;
+            color: var(--primary-dark);
+            font-size: 1.15rem;
+        }
+
+        .subject-tag {
+            font-size: 0.85rem;
+            background: var(--accent-light);
+            color: var(--accent-blue);
+            padding: 5px 12px;
+            border-radius: 8px;
+            font-weight: 600;
+        }
+
         .query-box {
             background-color: #f8f9fa;
             padding: 18px;
@@ -86,8 +124,12 @@
             font-size: 0.95rem;
             resize: vertical;
         }
-        .reply-area textarea:focus { border-color: var(--accent-blue); box-shadow: 0 0 0 0.2rem rgba(24, 90, 219, 0.1); }
-        
+
+        .reply-area textarea:focus {
+            border-color: var(--accent-blue);
+            box-shadow: 0 0 0 0.2rem rgba(24, 90, 219, 0.1);
+        }
+
         .btn-reply {
             background-color: #1fa463;
             color: var(--white);
@@ -97,7 +139,11 @@
             border: none;
             transition: 0.3s;
         }
-        .btn-reply:hover { background-color: #167d4b; transform: translateY(-2px); }
+
+        .btn-reply:hover {
+            background-color: #167d4b;
+            transform: translateY(-2px);
+        }
 
         .replied-box {
             background-color: #e8f7f0;
@@ -106,22 +152,54 @@
             border-radius: 12px;
             color: #167d4b;
         }
+
+        /* Professional Footer */
+        footer {
+            background-color: var(--primary-dark);
+            color: #a0aec0;
+            padding: 25px 0;
+            margin-top: auto;
+            /* Pushes footer to the bottom */
+            border-top: 4px solid var(--accent-blue);
+        }
+
+        footer a {
+            color: #4da3ff;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+
+        footer a:hover {
+            color: var(--white);
+        }
+
+        /* Main Content Wrapper */
+        .main-content {
+            flex: 1;
+        }
     </style>
 </head>
 
 <body>
 
-    <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="#">JEE <span>SAATHI</span></a>
+            <a class="navbar-brand" href="/mentor_dashboard"><i class="fa-solid fa-graduation-cap me-2"></i>JEE
+                <span>SAATHI</span></a>
             <div class="ms-auto d-flex align-items-center">
-                <span class="mentor-badge me-3"><i class="fa-solid fa-user-tie me-2"></i> Hi, {{ mentor_name }}</span>
-                <a href="/logout" class="btn btn-sm btn-danger" style="border-radius: 20px; font-weight: 500; padding: 6px 15px;"><i class="fa-solid fa-power-off me-1"></i> Logout</a>
+                <a href="/mentor_profile" class="mentor-badge me-3 text-decoration-none"
+                    style="display: inline-block; cursor: pointer;">
+                    <i class="fa-solid fa-user-tie me-2"></i> Hi, {{ mentor_name }}
+                </a>
+                <a href="/logout" class="btn btn-sm btn-outline-light"
+                    style="border-radius: 20px; font-weight: 500; padding: 6px 18px; transition: 0.3s;">
+                    <i class="fa-solid fa-power-off me-1"></i> Logout
+                </a>
             </div>
         </div>
     </nav>
 
-    <div class="container">
+    <div class="container main-content">
         <div class="page-header d-flex justify-content-between align-items-center">
             <div>
                 <h2 class="fw-bold text-dark mb-1">Your Mentorship Desk</h2>
@@ -130,72 +208,92 @@
         </div>
 
         {% with messages = get_flashed_messages(with_categories=true) %}
-            {% if messages %}
-                {% for category, message in messages %}
-                    <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert" style="border-radius: 10px;">
-                        {{ message }}
-                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                    </div>
-                {% endfor %}
-            {% endif %}
+        {% if messages %}
+        {% for category, message in messages %}
+        <div class="alert alert-{{ category }} alert-dismissible fade show shadow-sm" role="alert"
+            style="border-radius: 10px;">
+            {{ message }}
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+        {% endfor %}
+        {% endif %}
         {% endwith %}
 
-        <div class="row justify-content-center">
+        <div class="row justify-content-center mb-5">
             <div class="col-lg-10">
-                
+
                 {% if doubts %}
-                    {% for doubt in doubts %}
-                    <div class="doubt-card">
-                        <div class="doubt-header">
-                            <div>
-                                <div class="student-name"><i class="fa-solid fa-user-graduate text-muted me-2"></i>{{ doubt.student_name }}</div>
-                                <small class="text-muted"><i class="fa-regular fa-clock me-1"></i> Requested Mentor: <strong>{{ doubt.mentor_name }}</strong></small>
-                            </div>
-                            <div>
-                                <span class="subject-tag">{{ doubt.subject }}</span>
-                                {% if doubt.status == 'Pending' %}
-                                    <span class="badge bg-warning text-dark ms-2 py-2 px-3"><i class="fa-solid fa-spinner fa-spin me-1"></i> Pending</span>
-                                {% else %}
-                                    <span class="badge bg-success ms-2 py-2 px-3"><i class="fa-solid fa-check-double me-1"></i> Resolved</span>
-                                {% endif %}
-                            </div>
+                {% for doubt in doubts %}
+                <div class="doubt-card">
+                    <div class="doubt-header">
+                        <div>
+                            <div class="student-name"><i class="fa-solid fa-user-graduate text-muted me-2"></i>{{
+                                doubt.student_name }}</div>
+                            <small class="text-muted"><i class="fa-regular fa-clock me-1"></i> Requested Mentor:
+                                <strong>{{ doubt.mentor_name }}</strong></small>
                         </div>
-
-                        <div class="query-box">
-                            <strong style="color: var(--primary-dark);"><i class="fa-solid fa-circle-question me-2"></i>Student's Query:</strong><br>
-                            <span style="display: inline-block; margin-top: 8px;">{{ doubt.query_text }}</span>
+                        <div>
+                            <span class="subject-tag">{{ doubt.subject }}</span>
+                            {% if doubt.status == 'Pending' %}
+                            <span class="badge bg-warning text-dark ms-2 py-2 px-3"><i
+                                    class="fa-solid fa-spinner fa-spin me-1"></i> Pending</span>
+                            {% else %}
+                            <span class="badge bg-success ms-2 py-2 px-3"><i class="fa-solid fa-check-double me-1"></i>
+                                Resolved</span>
+                            {% endif %}
                         </div>
-
-                        {% if doubt.status == 'Pending' %}
-                            <div class="reply-area mt-3">
-                                <form action="/mentor_reply" method="POST">
-                                    <input type="hidden" name="doubt_id" value="{{ doubt.id }}">
-                                    <textarea name="reply_msg" class="form-control mb-3" rows="4" placeholder="Type your expert reply here... Provide clear steps or motivation!" required></textarea>
-                                    <div class="text-end">
-                                        <button type="submit" class="btn-reply"><i class="fa-solid fa-paper-plane me-2"></i> Send Solution</button>
-                                    </div>
-                                </form>
-                            </div>
-                        {% else %}
-                            <div class="replied-box mt-3">
-                                <strong><i class="fa-solid fa-reply-all me-2"></i>Your Expert Reply:</strong><br>
-                                <span style="display: inline-block; margin-top: 8px;">{{ doubt.reply_text }}</span>
-                            </div>
-                        {% endif %}
                     </div>
-                    {% endfor %}
+
+                    <div class="query-box">
+                        <strong style="color: var(--primary-dark);"><i
+                                class="fa-solid fa-circle-question me-2"></i>Student's Query:</strong><br>
+                        <span style="display: inline-block; margin-top: 8px;">{{ doubt.query_text }}</span>
+                    </div>
+
+                    {% if doubt.status == 'Pending' %}
+                    <div class="reply-area mt-3">
+                        <form action="/mentor_reply" method="POST">
+                            <input type="hidden" name="doubt_id" value="{{ doubt.id }}">
+                            <textarea name="reply_msg" class="form-control mb-3" rows="4"
+                                placeholder="Type your expert reply here... Provide clear steps or motivation!"
+                                required></textarea>
+                            <div class="text-end">
+                                <button type="submit" class="btn-reply"><i class="fa-solid fa-paper-plane me-2"></i>
+                                    Send Solution</button>
+                            </div>
+                        </form>
+                    </div>
+                    {% else %}
+                    <div class="replied-box mt-3">
+                        <strong><i class="fa-solid fa-reply-all me-2"></i>Your Expert Reply:</strong><br>
+                        <span style="display: inline-block; margin-top: 8px;">{{ doubt.reply_text }}</span>
+                    </div>
+                    {% endif %}
+                </div>
+                {% endfor %}
                 {% else %}
-                    <div class="text-center p-5" style="background: white; border-radius: 15px; border: 1px dashed #ccc;">
-                        <i class="fa-solid fa-mug-hot mb-3" style="font-size: 3rem; color: #ccc;"></i>
-                        <h4 class="text-muted">All caught up!</h4>
-                        <p class="text-muted">You have no pending doubts to resolve right now. Take a break!</p>
-                    </div>
+                <div class="text-center p-5"
+                    style="background: white; border-radius: 15px; border: 1px dashed #ccc; box-shadow: 0 4px 10px rgba(0,0,0,0.02);">
+                    <i class="fa-solid fa-mug-hot mb-3" style="font-size: 3rem; color: #cbd5e1;"></i>
+                    <h4 class="text-muted fw-bold">All caught up!</h4>
+                    <p class="text-muted">You have no pending doubts to resolve right now. Take a break!</p>
+                </div>
                 {% endif %}
 
             </div>
         </div>
     </div>
 
+    <footer>
+        <div class="container text-center">
+            <p class="mb-1">&copy; 2026 JEE Saathi. All Rights Reserved.</p>
+            <p class="mb-0" style="font-size: 0.85rem;">
+                Empowering future engineers. <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
+            </p>
+        </div>
+    </footer>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
