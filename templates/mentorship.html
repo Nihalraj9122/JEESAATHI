@@ -755,7 +755,7 @@
         <p class="section-subtitle">Fill out the form below. Our mentors will reply within 24 hours.</p>
 
         <div class="doubt-box">
-            <form action="/submit_doubt" method="POST">
+            <form action="/submit_doubt" method="POST" onsubmit="this.querySelector('button[type=submit]').disabled = true; this.querySelector('button[type=submit]').innerHTML = 'Submitting...';">
 
                 <div class="row g-3 mb-3">
                     <div class="col-md-6">
