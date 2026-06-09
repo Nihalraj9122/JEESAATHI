@@ -1,0 +1,511 @@
+College_Name,Branch,Quota,Category,Gender,Closing_Rank,State
+NIT Tiruchirappalli,CSE,OS,OPEN,Gender-Neutral,1500,Tamil Nadu
+NIT Tiruchirappalli,ECE,OS,OPEN,Gender-Neutral,4000,Tamil Nadu
+NIT Tiruchirappalli,Mechanical,OS,OPEN,Gender-Neutral,10000,Tamil Nadu
+NIT Tiruchirappalli,Civil,OS,OPEN,Gender-Neutral,16000,Tamil Nadu
+NIT Karnataka Surathkal,CSE,OS,OPEN,Gender-Neutral,2000,Karnataka
+NIT Karnataka Surathkal,ECE,OS,OPEN,Gender-Neutral,4500,Karnataka
+NIT Karnataka Surathkal,Mechanical,OS,OPEN,Gender-Neutral,11000,Karnataka
+NIT Karnataka Surathkal,Civil,OS,OPEN,Gender-Neutral,17000,Karnataka
+NIT Warangal,CSE,OS,OPEN,Gender-Neutral,2400,Telangana
+NIT Warangal,ECE,OS,OPEN,Gender-Neutral,5000,Telangana
+NIT Warangal,Mechanical,OS,OPEN,Gender-Neutral,12000,Telangana
+NIT Warangal,Civil,OS,OPEN,Gender-Neutral,19000,Telangana
+NIT Rourkela,CSE,OS,OPEN,Gender-Neutral,3300,Odisha
+NIT Rourkela,ECE,OS,OPEN,Gender-Neutral,6000,Odisha
+NIT Rourkela,Mechanical,OS,OPEN,Gender-Neutral,13000,Odisha
+NIT Rourkela,Civil,OS,OPEN,Gender-Neutral,21000,Odisha
+MNNIT Allahabad,CSE,OS,OPEN,Gender-Neutral,4200,Uttar Pradesh
+MNNIT Allahabad,ECE,OS,OPEN,Gender-Neutral,8000,Uttar Pradesh
+MNNIT Allahabad,Mechanical,OS,OPEN,Gender-Neutral,14000,Uttar Pradesh
+MNNIT Allahabad,Civil,OS,OPEN,Gender-Neutral,22000,Uttar Pradesh
+NIT Calicut,CSE,OS,OPEN,Gender-Neutral,4500,Kerala
+NIT Calicut,ECE,OS,OPEN,Gender-Neutral,7500,Kerala
+NIT Calicut,Mechanical,OS,OPEN,Gender-Neutral,15000,Kerala
+NIT Calicut,Civil,OS,OPEN,Gender-Neutral,24000,Kerala
+MNIT Jaipur,CSE,OS,OPEN,Gender-Neutral,4800,Rajasthan
+MNIT Jaipur,ECE,OS,OPEN,Gender-Neutral,8500,Rajasthan
+MNIT Jaipur,Mechanical,OS,OPEN,Gender-Neutral,15000,Rajasthan
+MNIT Jaipur,Civil,OS,OPEN,Gender-Neutral,23000,Rajasthan
+VNIT Nagpur,CSE,OS,OPEN,Gender-Neutral,6000,Maharashtra
+VNIT Nagpur,ECE,OS,OPEN,Gender-Neutral,10000,Maharashtra
+VNIT Nagpur,Mechanical,OS,OPEN,Gender-Neutral,17000,Maharashtra
+VNIT Nagpur,Civil,OS,OPEN,Gender-Neutral,26000,Maharashtra
+MANIT Bhopal,CSE,OS,OPEN,Gender-Neutral,7800,Madhya Pradesh
+MANIT Bhopal,ECE,OS,OPEN,Gender-Neutral,12000,Madhya Pradesh
+MANIT Bhopal,Mechanical,OS,OPEN,Gender-Neutral,19000,Madhya Pradesh
+MANIT Bhopal,Civil,OS,OPEN,Gender-Neutral,27000,Madhya Pradesh
+NIT Kurukshetra,CSE,OS,OPEN,Gender-Neutral,8000,Haryana
+NIT Kurukshetra,ECE,OS,OPEN,Gender-Neutral,12500,Haryana
+NIT Kurukshetra,Mechanical,OS,OPEN,Gender-Neutral,19000,Haryana
+NIT Kurukshetra,Civil,OS,OPEN,Gender-Neutral,29000,Haryana
+NIT Durgapur,CSE,OS,OPEN,Gender-Neutral,9000,West Bengal
+NIT Durgapur,ECE,OS,OPEN,Gender-Neutral,13500,West Bengal
+NIT Durgapur,Mechanical,OS,OPEN,Gender-Neutral,21000,West Bengal
+NIT Durgapur,Civil,OS,OPEN,Gender-Neutral,30000,West Bengal
+NIT Jamshedpur,CSE,HS,OPEN,Gender-Neutral,11000,Jharkhand
+NIT Jamshedpur,CSE,OS,OPEN,Gender-Neutral,9000,Jharkhand
+NIT Jamshedpur,ECE,OS,OPEN,Gender-Neutral,14000,Jharkhand
+NIT Jamshedpur,Mechanical,OS,OPEN,Gender-Neutral,24000,Jharkhand
+NIT Delhi,CSE,OS,OPEN,Gender-Neutral,9500,Delhi
+NIT Delhi,ECE,OS,OPEN,Gender-Neutral,15000,Delhi
+NIT Delhi,Mechanical,OS,OPEN,Gender-Neutral,23000,Delhi
+NIT Delhi,Civil,OS,OPEN,Gender-Neutral,32000,Delhi
+NIT Silchar,CSE,OS,OPEN,Gender-Neutral,11500,Assam
+NIT Silchar,ECE,OS,OPEN,Gender-Neutral,16000,Assam
+NIT Silchar,Mechanical,OS,OPEN,Gender-Neutral,26000,Assam
+NIT Silchar,Civil,OS,OPEN,Gender-Neutral,36000,Assam
+NIT Hamirpur,CSE,OS,OPEN,Gender-Neutral,12000,Himachal Pradesh
+NIT Hamirpur,ECE,OS,OPEN,Gender-Neutral,18000,Himachal Pradesh
+NIT Hamirpur,Mechanical,OS,OPEN,Gender-Neutral,28000,Himachal Pradesh
+NIT Hamirpur,Civil,OS,OPEN,Gender-Neutral,39000,Himachal Pradesh
+NIT Jalandhar,CSE,OS,OPEN,Gender-Neutral,13000,Punjab
+NIT Jalandhar,ECE,OS,OPEN,Gender-Neutral,19000,Punjab
+NIT Jalandhar,Mechanical,OS,OPEN,Gender-Neutral,29000,Punjab
+NIT Jalandhar,Civil,OS,OPEN,Gender-Neutral,41000,Punjab
+NIT Patna,CSE,HS,OPEN,Gender-Neutral,14000,Bihar
+NIT Patna,CSE,OS,OPEN,Gender-Neutral,13500,Bihar
+NIT Patna,ECE,OS,OPEN,Gender-Neutral,20000,Bihar
+NIT Patna,Mechanical,OS,OPEN,Gender-Neutral,32000,Bihar
+IIEST Shibpur,CSE,OS,OPEN,Gender-Neutral,14500,West Bengal
+IIEST Shibpur,ECE,OS,OPEN,Gender-Neutral,21000,West Bengal
+IIEST Shibpur,Mechanical,OS,OPEN,Gender-Neutral,30000,West Bengal
+IIEST Shibpur,Civil,OS,OPEN,Gender-Neutral,40000,West Bengal
+NIT Raipur,CSE,OS,OPEN,Gender-Neutral,15000,Chhattisgarh
+NIT Raipur,ECE,OS,OPEN,Gender-Neutral,22000,Chhattisgarh
+NIT Raipur,Mechanical,OS,OPEN,Gender-Neutral,32000,Chhattisgarh
+NIT Raipur,Civil,OS,OPEN,Gender-Neutral,44000,Chhattisgarh
+NIT Goa,CSE,OS,OPEN,Gender-Neutral,16000,Goa
+NIT Goa,ECE,OS,OPEN,Gender-Neutral,23000,Goa
+NIT Goa,Mechanical,OS,OPEN,Gender-Neutral,34000,Goa
+NIT Goa,Civil,OS,OPEN,Gender-Neutral,45000,Goa
+NIT Uttarakhand,CSE,OS,OPEN,Gender-Neutral,19000,Uttarakhand
+NIT Uttarakhand,ECE,OS,OPEN,Gender-Neutral,26000,Uttarakhand
+NIT Uttarakhand,Mechanical,OS,OPEN,Gender-Neutral,36000,Uttarakhand
+NIT Uttarakhand,Civil,OS,OPEN,Gender-Neutral,47000,Uttarakhand
+NIT Andhra Pradesh,CSE,OS,OPEN,Gender-Neutral,20000,Andhra Pradesh
+NIT Andhra Pradesh,ECE,OS,OPEN,Gender-Neutral,28000,Andhra Pradesh
+NIT Andhra Pradesh,Mechanical,OS,OPEN,Gender-Neutral,38000,Andhra Pradesh
+NIT Andhra Pradesh,Civil,OS,OPEN,Gender-Neutral,49000,Andhra Pradesh
+NIT Puducherry,CSE,OS,OPEN,Gender-Neutral,22000,Puducherry
+NIT Puducherry,ECE,OS,OPEN,Gender-Neutral,30000,Puducherry
+NIT Puducherry,Mechanical,OS,OPEN,Gender-Neutral,40000,Puducherry
+NIT Puducherry,Civil,OS,OPEN,Gender-Neutral,51000,Puducherry
+NIT Sikkim,CSE,OS,OPEN,Gender-Neutral,24000,Sikkim
+NIT Sikkim,ECE,OS,OPEN,Gender-Neutral,32000,Sikkim
+NIT Sikkim,Mechanical,OS,OPEN,Gender-Neutral,42000,Sikkim
+NIT Sikkim,Civil,OS,OPEN,Gender-Neutral,53000,Sikkim
+NIT Srinagar,CSE,OS,OPEN,Gender-Neutral,25000,Jammu and Kashmir
+NIT Srinagar,ECE,OS,OPEN,Gender-Neutral,34000,Jammu and Kashmir
+NIT Srinagar,Mechanical,OS,OPEN,Gender-Neutral,44000,Jammu and Kashmir
+NIT Srinagar,Civil,OS,OPEN,Gender-Neutral,55000,Jammu and Kashmir
+NIT Agartala,CSE,OS,OPEN,Gender-Neutral,26000,Tripura
+NIT Agartala,ECE,OS,OPEN,Gender-Neutral,35000,Tripura
+NIT Agartala,Mechanical,OS,OPEN,Gender-Neutral,45000,Tripura
+NIT Agartala,Civil,OS,OPEN,Gender-Neutral,56000,Tripura
+NIT Meghalaya,CSE,OS,OPEN,Gender-Neutral,27000,Meghalaya
+NIT Meghalaya,ECE,OS,OPEN,Gender-Neutral,36000,Meghalaya
+NIT Meghalaya,Mechanical,OS,OPEN,Gender-Neutral,46000,Meghalaya
+NIT Meghalaya,Civil,OS,OPEN,Gender-Neutral,57000,Meghalaya
+NIT Mizoram,CSE,OS,OPEN,Gender-Neutral,29000,Mizoram
+NIT Mizoram,ECE,OS,OPEN,Gender-Neutral,38000,Mizoram
+NIT Mizoram,Mechanical,OS,OPEN,Gender-Neutral,48000,Mizoram
+NIT Mizoram,Civil,OS,OPEN,Gender-Neutral,59000,Mizoram
+NIT Manipur,CSE,OS,OPEN,Gender-Neutral,30000,Manipur
+NIT Manipur,ECE,OS,OPEN,Gender-Neutral,39000,Manipur
+NIT Manipur,Mechanical,OS,OPEN,Gender-Neutral,49000,Manipur
+NIT Manipur,Civil,OS,OPEN,Gender-Neutral,60000,Manipur
+NIT Nagaland,CSE,OS,OPEN,Gender-Neutral,32000,Nagaland
+NIT Nagaland,ECE,OS,OPEN,Gender-Neutral,41000,Nagaland
+NIT Nagaland,Mechanical,OS,OPEN,Gender-Neutral,51000,Nagaland
+NIT Nagaland,Civil,OS,OPEN,Gender-Neutral,62000,Nagaland
+IIIT Allahabad,CSE,OS,OPEN,Gender-Neutral,5800,Uttar Pradesh
+IIIT Allahabad,IT,OS,OPEN,Gender-Neutral,4900,Uttar Pradesh
+IIIT Allahabad,ECE,OS,OPEN,Gender-Neutral,9000,Uttar Pradesh
+IIIT Allahabad,Mechatronics,OS,OPEN,Gender-Neutral,16000,Uttar Pradesh
+IIIT Gwalior,CSE,OS,OPEN,Gender-Neutral,7500,Madhya Pradesh
+IIIT Gwalior,IT,OS,OPEN,Gender-Neutral,9500,Madhya Pradesh
+IIIT Gwalior,ECE,OS,OPEN,Gender-Neutral,13000,Madhya Pradesh
+IIIT Gwalior,Mechanical,OS,OPEN,Gender-Neutral,21000,Madhya Pradesh
+IIITDM Jabalpur,CSE,OS,OPEN,Gender-Neutral,12500,Madhya Pradesh
+IIITDM Jabalpur,ECE,OS,OPEN,Gender-Neutral,17500,Madhya Pradesh
+IIITDM Jabalpur,Mech,OS,OPEN,Gender-Neutral,25000,Madhya Pradesh
+IIITDM Jabalpur,Design,OS,OPEN,Gender-Neutral,27000,Madhya Pradesh
+IIITDM Kancheepuram,CSE,OS,OPEN,Gender-Neutral,15000,Tamil Nadu
+IIITDM Kancheepuram,ECE,OS,OPEN,Gender-Neutral,20000,Tamil Nadu
+IIITDM Kancheepuram,Mech,OS,OPEN,Gender-Neutral,28000,Tamil Nadu
+IIITDM Kancheepuram,Design,OS,OPEN,Gender-Neutral,30000,Tamil Nadu
+IIIT Lucknow,CSE,OS,OPEN,Gender-Neutral,11000,Uttar Pradesh
+IIIT Lucknow,IT,OS,OPEN,Gender-Neutral,12500,Uttar Pradesh
+IIIT Lucknow,AI,OS,OPEN,Gender-Neutral,12000,Uttar Pradesh
+IIIT Sri City,CSE,OS,OPEN,Gender-Neutral,24000,Andhra Pradesh
+IIIT Sri City,IT,OS,OPEN,Gender-Neutral,26500,Andhra Pradesh
+IIIT Sri City,ECE,OS,OPEN,Gender-Neutral,31000,Andhra Pradesh
+IIIT Vadodara,CSE,OS,OPEN,Gender-Neutral,22000,Gujarat
+IIIT Vadodara,IT,OS,OPEN,Gender-Neutral,24500,Gujarat
+IIIT Vadodara,ECE,OS,OPEN,Gender-Neutral,30000,Gujarat
+IIIT Pune,CSE,OS,OPEN,Gender-Neutral,17000,Maharashtra
+IIIT Pune,IT,OS,OPEN,Gender-Neutral,19000,Maharashtra
+IIIT Pune,ECE,OS,OPEN,Gender-Neutral,24000,Maharashtra
+IIIT Una,CSE,OS,OPEN,Gender-Neutral,26000,Himachal Pradesh
+IIIT Una,IT,OS,OPEN,Gender-Neutral,29000,Himachal Pradesh
+IIIT Una,ECE,OS,OPEN,Gender-Neutral,34000,Himachal Pradesh
+IIIT Nagpur,CSE,OS,OPEN,Gender-Neutral,25000,Maharashtra
+IIIT Nagpur,IT,OS,OPEN,Gender-Neutral,27000,Maharashtra
+IIIT Nagpur,ECE,OS,OPEN,Gender-Neutral,33000,Maharashtra
+IIIT Surat,CSE,OS,OPEN,Gender-Neutral,24000,Gujarat
+IIIT Surat,IT,OS,OPEN,Gender-Neutral,26500,Gujarat
+IIIT Surat,ECE,OS,OPEN,Gender-Neutral,31500,Gujarat
+IIIT DM Dharwad,CSE,OS,OPEN,Gender-Neutral,29500,Karnataka
+IIIT DM Dharwad,IT,OS,OPEN,Gender-Neutral,32000,Karnataka
+IIIT DM Dharwad,ECE,OS,OPEN,Gender-Neutral,38000,Karnataka
+IIIT DM Dharwad,Mech,OS,OPEN,Gender-Neutral,42000,Karnataka
+IIIT DM Dharwad,Design,OS,OPEN,Gender-Neutral,44000,Karnataka
+IIIT Kottayam,CSE,OS,OPEN,Gender-Neutral,31000,Kerala
+IIIT Kottayam,IT,OS,OPEN,Gender-Neutral,33000,Kerala
+IIIT Kottayam,ECE,OS,OPEN,Gender-Neutral,39000,Kerala
+IIIT Bhagalpur,CSE,OS,OPEN,Gender-Neutral,33000,Bihar
+IIIT Bhagalpur,IT,OS,OPEN,Gender-Neutral,35000,Bihar
+IIIT Bhagalpur,ECE,OS,OPEN,Gender-Neutral,41000,Bihar
+IIIT Bhopal,CSE,OS,OPEN,Gender-Neutral,27500,Madhya Pradesh
+IIIT Bhopal,IT,OS,OPEN,Gender-Neutral,29500,Madhya Pradesh
+IIIT Bhopal,ECE,OS,OPEN,Gender-Neutral,35500,Madhya Pradesh
+IIIT Agartala,CSE,OS,OPEN,Gender-Neutral,32500,Tripura
+IIIT Agartala,IT,OS,OPEN,Gender-Neutral,34500,Tripura
+IIIT Agartala,ECE,OS,OPEN,Gender-Neutral,40000,Tripura
+IIIT Ranchi,CSE,OS,OPEN,Gender-Neutral,34000,Jharkhand
+IIIT Ranchi,IT,OS,OPEN,Gender-Neutral,36500,Jharkhand
+IIIT Ranchi,ECE,OS,OPEN,Gender-Neutral,42000,Jharkhand
+IIIT Kota,CSE,OS,OPEN,Gender-Neutral,26000,Rajasthan
+IIIT Kota,IT,OS,OPEN,Gender-Neutral,28000,Rajasthan
+IIIT Kota,ECE,OS,OPEN,Gender-Neutral,33500,Rajasthan
+IIIT Sonepat,CSE,OS,OPEN,Gender-Neutral,28000,Haryana
+IIIT Sonepat,IT,OS,OPEN,Gender-Neutral,30000,Haryana
+IIIT Sonepat,ECE,OS,OPEN,Gender-Neutral,36000,Haryana
+IIIT Trichy,CSE,OS,OPEN,Gender-Neutral,35000,Tamil Nadu
+IIIT Trichy,IT,OS,OPEN,Gender-Neutral,37000,Tamil Nadu
+IIIT Trichy,ECE,OS,OPEN,Gender-Neutral,42500,Tamil Nadu
+IIITDM Kurnool,CSE,OS,OPEN,Gender-Neutral,33000,Andhra Pradesh
+IIITDM Kurnool,IT,OS,OPEN,Gender-Neutral,35500,Andhra Pradesh
+IIITDM Kurnool,ECE,OS,OPEN,Gender-Neutral,41000,Andhra Pradesh
+IIITDM Kurnool,Mech,OS,OPEN,Gender-Neutral,44000,Andhra Pradesh
+IIITDM Kurnool,Design,OS,OPEN,Gender-Neutral,46000,Andhra Pradesh
+IIIT Manipur,CSE,OS,OPEN,Gender-Neutral,38000,Manipur
+IIIT Manipur,IT,OS,OPEN,Gender-Neutral,41000,Manipur
+IIIT Manipur,ECE,OS,OPEN,Gender-Neutral,47000,Manipur
+BIT Mesra,CSE,OS,OPEN,Gender-Neutral,20000,Jharkhand
+BIT Mesra,ECE,OS,OPEN,Gender-Neutral,30000,Jharkhand
+BIT Mesra,Mechanical,OS,OPEN,Gender-Neutral,45000,Jharkhand
+BIT Mesra,Civil,OS,OPEN,Gender-Neutral,60000,Jharkhand
+BIT Deoghar,CSE,HS,OPEN,Gender-Neutral,35000,Jharkhand
+BIT Deoghar,CSE,OS,OPEN,Gender-Neutral,28000,Jharkhand
+BIT Deoghar,ECE,OS,OPEN,Gender-Neutral,38000,Jharkhand
+BIT Deoghar,Mechanical,OS,OPEN,Gender-Neutral,52000,Jharkhand
+BIT Deoghar,Civil,OS,OPEN,Gender-Neutral,70000,Jharkhand
+BIT Patna,CSE,HS,OPEN,Gender-Neutral,36000,Bihar
+BIT Patna,CSE,OS,OPEN,Gender-Neutral,30000,Bihar
+BIT Patna,ECE,OS,OPEN,Gender-Neutral,42000,Bihar
+BIT Patna,Mechanical,OS,OPEN,Gender-Neutral,56000,Bihar
+BIT Patna,Civil,OS,OPEN,Gender-Neutral,75000,Bihar
+PEC Chandigarh,CSE,OS,OPEN,Gender-Neutral,12000,Chandigarh
+PEC Chandigarh,ECE,OS,OPEN,Gender-Neutral,19000,Chandigarh
+PEC Chandigarh,Mechanical,OS,OPEN,Gender-Neutral,32000,Chandigarh
+PEC Chandigarh,Civil,OS,OPEN,Gender-Neutral,45000,Chandigarh
+SPA Delhi,Planning,OS,OPEN,Gender-Neutral,25000,Delhi
+SPA Bhopal,Planning,OS,OPEN,Gender-Neutral,32000,Madhya Pradesh
+SPAV Vijayawada,Planning,OS,OPEN,Gender-Neutral,35000,Andhra Pradesh
+IITRAM Ahmedabad,CSE,OS,OPEN,Gender-Neutral,38000,Gujarat
+IITRAM Ahmedabad,ECE,OS,OPEN,Gender-Neutral,50000,Gujarat
+IITRAM Ahmedabad,Mechanical,OS,OPEN,Gender-Neutral,65000,Gujarat
+IITRAM Ahmedabad,Civil,OS,OPEN,Gender-Neutral,80000,Gujarat
+GSV Vadodara,CSE,OS,OPEN,Gender-Neutral,35000,Gujarat
+GSV Vadodara,ECE,OS,OPEN,Gender-Neutral,48000,Gujarat
+GSV Vadodara,Mechanical,OS,OPEN,Gender-Neutral,62000,Gujarat
+GSV Vadodara,Civil,OS,OPEN,Gender-Neutral,78000,Gujarat
+Tezpur University,CSE,OS,OPEN,Gender-Neutral,24000,Assam
+Tezpur University,ECE,OS,OPEN,Gender-Neutral,34000,Assam
+Tezpur University,Mechanical,OS,OPEN,Gender-Neutral,50000,Assam
+Tezpur University,Civil,OS,OPEN,Gender-Neutral,70000,Assam
+University of Hyderabad,CSE,OS,OPEN,Gender-Neutral,26000,Telangana
+University of Hyderabad,ECE,OS,OPEN,Gender-Neutral,36000,Telangana
+University of Hyderabad,Mechanical,OS,OPEN,Gender-Neutral,52000,Telangana
+JNU,CSE,OS,OPEN,Gender-Neutral,22000,Delhi
+JNU,ECE,OS,OPEN,Gender-Neutral,32000,Delhi
+JNU,Mechanical,OS,OPEN,Gender-Neutral,45000,Delhi
+Central University of Rajasthan,CSE,OS,OPEN,Gender-Neutral,42000,Rajasthan
+Central University of Rajasthan,ECE,OS,OPEN,Gender-Neutral,55000,Rajasthan
+Central University of Rajasthan,Mechanical,OS,OPEN,Gender-Neutral,70000,Rajasthan
+Central University of Jammu,CSE,OS,OPEN,Gender-Neutral,43000,Jammu and Kashmir
+Central University of Jammu,ECE,OS,OPEN,Gender-Neutral,56000,Jammu and Kashmir
+Central University of Jammu,Mechanical,OS,OPEN,Gender-Neutral,72000,Jammu and Kashmir
+Central University of Jharkhand,CSE,HS,OPEN,Gender-Neutral,52000,Jharkhand
+Central University of Jharkhand,CSE,OS,OPEN,Gender-Neutral,45000,Jharkhand
+Central University of Jharkhand,ECE,OS,OPEN,Gender-Neutral,58000,Jharkhand
+Central University of Jharkhand,Mechanical,OS,OPEN,Gender-Neutral,74000,Jharkhand
+Central University of Haryana,CSE,OS,OPEN,Gender-Neutral,44000,Haryana
+Central University of Haryana,ECE,OS,OPEN,Gender-Neutral,57000,Haryana
+Central University of Haryana,Mechanical,OS,OPEN,Gender-Neutral,73000,Haryana
+Central University of Kashmir,CSE,OS,OPEN,Gender-Neutral,46000,Jammu and Kashmir
+Central University of Kashmir,ECE,OS,OPEN,Gender-Neutral,59000,Jammu and Kashmir
+Central University of Kashmir,Mechanical,OS,OPEN,Gender-Neutral,76000,Jammu and Kashmir
+Guru Ghasidas Vishwavidyalaya,CSE,OS,OPEN,Gender-Neutral,40000,Chhattisgarh
+Guru Ghasidas Vishwavidyalaya,ECE,OS,OPEN,Gender-Neutral,52000,Chhattisgarh
+Guru Ghasidas Vishwavidyalaya,Mechanical,OS,OPEN,Gender-Neutral,68000,Chhattisgarh
+Guru Ghasidas Vishwavidyalaya,Civil,OS,OPEN,Gender-Neutral,82000,Chhattisgarh
+Assam University Silchar,CSE,OS,OPEN,Gender-Neutral,43000,Assam
+Assam University Silchar,ECE,OS,OPEN,Gender-Neutral,55000,Assam
+Assam University Silchar,Mechanical,OS,OPEN,Gender-Neutral,72000,Assam
+Mizoram University,CSE,OS,OPEN,Gender-Neutral,48000,Mizoram
+Mizoram University,ECE,OS,OPEN,Gender-Neutral,60000,Mizoram
+Mizoram University,Mechanical,OS,OPEN,Gender-Neutral,78000,Mizoram
+SLIET Longowal,CSE,OS,OPEN,Gender-Neutral,32000,Punjab
+SLIET Longowal,ECE,OS,OPEN,Gender-Neutral,44000,Punjab
+SLIET Longowal,Mechanical,OS,OPEN,Gender-Neutral,60000,Punjab
+SLIET Longowal,Civil,OS,OPEN,Gender-Neutral,76000,Punjab
+SMVDU Katra,CSE,OS,OPEN,Gender-Neutral,31000,Jammu and Kashmir
+SMVDU Katra,ECE,OS,OPEN,Gender-Neutral,43000,Jammu and Kashmir
+SMVDU Katra,Mechanical,OS,OPEN,Gender-Neutral,58000,Jammu and Kashmir
+SMVDU Katra,Civil,OS,OPEN,Gender-Neutral,74000,Jammu and Kashmir
+GKV Haridwar,CSE,OS,OPEN,Gender-Neutral,50000,Uttarakhand
+GKV Haridwar,ECE,OS,OPEN,Gender-Neutral,62000,Uttarakhand
+GKV Haridwar,Mechanical,OS,OPEN,Gender-Neutral,78000,Uttarakhand
+IIIT Bhubaneswar,CSE,OS,OPEN,Gender-Neutral,19000,Odisha
+IIIT Bhubaneswar,ECE,OS,OPEN,Gender-Neutral,28000,Odisha
+IIIT Bhubaneswar,Mechanical,OS,OPEN,Gender-Neutral,42000,Odisha
+MNNIT Allahabad,Biotechnology,OS,OPEN,Gender-Neutral,15000,Uttar Pradesh
+MNIT Jaipur,Metallurgical,OS,OPEN,Gender-Neutral,12000,Rajasthan
+NIT Tiruchirappalli,CSE,HS,OPEN,Gender-Neutral,4500,Tamil Nadu
+NIT Tiruchirappalli,ECE,HS,OPEN,Gender-Neutral,8000,Tamil Nadu
+NIT Tiruchirappalli,Mechanical,HS,OPEN,Gender-Neutral,15000,Tamil Nadu
+NIT Tiruchirappalli,Civil,HS,OPEN,Gender-Neutral,22000,Tamil Nadu
+NIT Karnataka Surathkal,CSE,HS,OPEN,Gender-Neutral,4000,Karnataka
+NIT Karnataka Surathkal,ECE,HS,OPEN,Gender-Neutral,7500,Karnataka
+NIT Karnataka Surathkal,Mechanical,HS,OPEN,Gender-Neutral,16000,Karnataka
+NIT Karnataka Surathkal,Civil,HS,OPEN,Gender-Neutral,24000,Karnataka
+NIT Warangal,CSE,HS,OPEN,Gender-Neutral,4800,Telangana
+NIT Warangal,ECE,HS,OPEN,Gender-Neutral,8500,Telangana
+NIT Warangal,Mechanical,HS,OPEN,Gender-Neutral,17500,Telangana
+NIT Warangal,Civil,HS,OPEN,Gender-Neutral,26000,Telangana
+NIT Rourkela,CSE,HS,OPEN,Gender-Neutral,7500,Odisha
+NIT Rourkela,ECE,HS,OPEN,Gender-Neutral,12000,Odisha
+NIT Rourkela,Mechanical,HS,OPEN,Gender-Neutral,22000,Odisha
+NIT Rourkela,Civil,HS,OPEN,Gender-Neutral,32000,Odisha
+MNNIT Allahabad,CSE,HS,OPEN,Gender-Neutral,5500,Uttar Pradesh
+MNNIT Allahabad,ECE,HS,OPEN,Gender-Neutral,9500,Uttar Pradesh
+MNNIT Allahabad,Mechanical,HS,OPEN,Gender-Neutral,18000,Uttar Pradesh
+MNNIT Allahabad,Civil,HS,OPEN,Gender-Neutral,27000,Uttar Pradesh
+MNIT Jaipur,CSE,HS,OPEN,Gender-Neutral,6000,Rajasthan
+MNIT Jaipur,ECE,HS,OPEN,Gender-Neutral,10500,Rajasthan
+MNIT Jaipur,Mechanical,HS,OPEN,Gender-Neutral,19000,Rajasthan
+MNIT Jaipur,Civil,HS,OPEN,Gender-Neutral,28000,Rajasthan
+VNIT Nagpur,CSE,HS,OPEN,Gender-Neutral,8000,Maharashtra
+VNIT Nagpur,ECE,HS,OPEN,Gender-Neutral,13000,Maharashtra
+VNIT Nagpur,Mechanical,HS,OPEN,Gender-Neutral,22000,Maharashtra
+VNIT Nagpur,Civil,HS,OPEN,Gender-Neutral,32000,Maharashtra
+MANIT Bhopal,CSE,HS,OPEN,Gender-Neutral,9500,Madhya Pradesh
+MANIT Bhopal,ECE,HS,OPEN,Gender-Neutral,15000,Madhya Pradesh
+MANIT Bhopal,Mechanical,HS,OPEN,Gender-Neutral,25000,Madhya Pradesh
+MANIT Bhopal,Civil,HS,OPEN,Gender-Neutral,35000,Madhya Pradesh
+NIT Kurukshetra,CSE,HS,OPEN,Gender-Neutral,10000,Haryana
+NIT Kurukshetra,ECE,HS,OPEN,Gender-Neutral,16000,Haryana
+NIT Kurukshetra,Mechanical,HS,OPEN,Gender-Neutral,26000,Haryana
+NIT Kurukshetra,Civil,HS,OPEN,Gender-Neutral,37000,Haryana
+NIT Durgapur,CSE,HS,OPEN,Gender-Neutral,12000,West Bengal
+NIT Durgapur,ECE,HS,OPEN,Gender-Neutral,18500,West Bengal
+NIT Durgapur,Mechanical,HS,OPEN,Gender-Neutral,28000,West Bengal
+NIT Durgapur,Civil,HS,OPEN,Gender-Neutral,39000,West Bengal
+NIT Delhi,CSE,HS,OPEN,Gender-Neutral,11000,Delhi
+NIT Delhi,ECE,HS,OPEN,Gender-Neutral,17000,Delhi
+NIT Delhi,Mechanical,HS,OPEN,Gender-Neutral,29000,Delhi
+NIT Delhi,Civil,HS,OPEN,Gender-Neutral,42000,Delhi
+PEC Chandigarh,CSE,HS,OPEN,Gender-Neutral,14000,Chandigarh
+PEC Chandigarh,ECE,HS,OPEN,Gender-Neutral,22000,Chandigarh
+PEC Chandigarh,Mechanical,HS,OPEN,Gender-Neutral,36000,Chandigarh
+PEC Chandigarh,Civil,HS,OPEN,Gender-Neutral,50000,Chandigarh
+NIT Jalandhar,CSE,HS,OPEN,Gender-Neutral,15000,Punjab
+NIT Jalandhar,ECE,HS,OPEN,Gender-Neutral,23000,Punjab
+NIT Jalandhar,Mechanical,HS,OPEN,Gender-Neutral,35000,Punjab
+NIT Jalandhar,Civil,HS,OPEN,Gender-Neutral,48000,Punjab
+NIT Raipur,CSE,HS,OPEN,Gender-Neutral,19000,Chhattisgarh
+NIT Raipur,ECE,HS,OPEN,Gender-Neutral,28000,Chhattisgarh
+NIT Raipur,Mechanical,HS,OPEN,Gender-Neutral,40000,Chhattisgarh
+NIT Raipur,Civil,HS,OPEN,Gender-Neutral,52000,Chhattisgarh
+NIT Calicut,CSE,HS,OPEN,Gender-Neutral,10000,Kerala
+NIT Calicut,ECE,HS,OPEN,Gender-Neutral,15000,Kerala
+NIT Calicut,Mechanical,HS,OPEN,Gender-Neutral,30000,Kerala
+NIT Calicut,Civil,HS,OPEN,Gender-Neutral,45000,Kerala
+NIT Silchar,CSE,HS,OPEN,Gender-Neutral,22000,Assam
+NIT Silchar,ECE,HS,OPEN,Gender-Neutral,32000,Assam
+NIT Silchar,Mechanical,HS,OPEN,Gender-Neutral,55000,Assam
+NIT Silchar,Civil,HS,OPEN,Gender-Neutral,65000,Assam
+NIT Hamirpur,CSE,HS,OPEN,Gender-Neutral,24000,Himachal Pradesh
+NIT Hamirpur,ECE,HS,OPEN,Gender-Neutral,38000,Himachal Pradesh
+NIT Hamirpur,Mechanical,HS,OPEN,Gender-Neutral,60000,Himachal Pradesh
+NIT Hamirpur,Civil,HS,OPEN,Gender-Neutral,75000,Himachal Pradesh
+IIEST Shibpur,CSE,HS,OPEN,Gender-Neutral,18000,West Bengal
+IIEST Shibpur,ECE,HS,OPEN,Gender-Neutral,28000,West Bengal
+IIEST Shibpur,Mechanical,HS,OPEN,Gender-Neutral,42000,West Bengal
+IIEST Shibpur,Civil,HS,OPEN,Gender-Neutral,55000,West Bengal
+NIT Goa,CSE,HS,OPEN,Gender-Neutral,44000,Goa
+NIT Goa,ECE,HS,OPEN,Gender-Neutral,60000,Goa
+NIT Goa,Mechanical,HS,OPEN,Gender-Neutral,85000,Goa
+NIT Goa,Civil,HS,OPEN,Gender-Neutral,100000,Goa
+NIT Uttarakhand,CSE,HS,OPEN,Gender-Neutral,28000,Uttarakhand
+NIT Uttarakhand,ECE,HS,OPEN,Gender-Neutral,42000,Uttarakhand
+NIT Uttarakhand,Mechanical,HS,OPEN,Gender-Neutral,65000,Uttarakhand
+NIT Uttarakhand,Civil,HS,OPEN,Gender-Neutral,80000,Uttarakhand
+NIT Andhra Pradesh,CSE,HS,OPEN,Gender-Neutral,18000,Andhra Pradesh
+NIT Andhra Pradesh,ECE,HS,OPEN,Gender-Neutral,27000,Andhra Pradesh
+NIT Andhra Pradesh,Mechanical,HS,OPEN,Gender-Neutral,48000,Andhra Pradesh
+NIT Andhra Pradesh,Civil,HS,OPEN,Gender-Neutral,60000,Andhra Pradesh
+NIT Puducherry,CSE,HS,OPEN,Gender-Neutral,65000,Puducherry
+NIT Puducherry,ECE,HS,OPEN,Gender-Neutral,90000,Puducherry
+NIT Puducherry,Mechanical,HS,OPEN,Gender-Neutral,120000,Puducherry
+NIT Puducherry,Civil,HS,OPEN,Gender-Neutral,140000,Puducherry
+NIT Srinagar,CSE,HS,OPEN,Gender-Neutral,32000,Jammu and Kashmir
+NIT Srinagar,ECE,HS,OPEN,Gender-Neutral,55000,Jammu and Kashmir
+NIT Srinagar,Mechanical,HS,OPEN,Gender-Neutral,85000,Jammu and Kashmir
+NIT Srinagar,Civil,HS,OPEN,Gender-Neutral,100000,Jammu and Kashmir
+NIT Sikkim,CSE,HS,OPEN,Gender-Neutral,120000,Sikkim
+NIT Sikkim,ECE,HS,OPEN,Gender-Neutral,170000,Sikkim
+NIT Sikkim,Mechanical,HS,OPEN,Gender-Neutral,220000,Sikkim
+NIT Sikkim,Civil,HS,OPEN,Gender-Neutral,250000,Sikkim
+NIT Agartala,CSE,HS,OPEN,Gender-Neutral,55000,Tripura
+NIT Agartala,ECE,HS,OPEN,Gender-Neutral,85000,Tripura
+NIT Agartala,Mechanical,HS,OPEN,Gender-Neutral,130000,Tripura
+NIT Agartala,Civil,HS,OPEN,Gender-Neutral,160000,Tripura
+NIT Meghalaya,CSE,HS,OPEN,Gender-Neutral,60000,Meghalaya
+NIT Meghalaya,ECE,HS,OPEN,Gender-Neutral,95000,Meghalaya
+NIT Meghalaya,Mechanical,HS,OPEN,Gender-Neutral,140000,Meghalaya
+NIT Meghalaya,Civil,HS,OPEN,Gender-Neutral,180000,Meghalaya
+NIT Mizoram,CSE,HS,OPEN,Gender-Neutral,150000,Mizoram
+NIT Mizoram,ECE,HS,OPEN,Gender-Neutral,220000,Mizoram
+NIT Mizoram,Mechanical,HS,OPEN,Gender-Neutral,280000,Mizoram
+NIT Mizoram,Civil,HS,OPEN,Gender-Neutral,320000,Mizoram
+NIT Manipur,CSE,HS,OPEN,Gender-Neutral,130000,Manipur
+NIT Manipur,ECE,HS,OPEN,Gender-Neutral,190000,Manipur
+NIT Manipur,Mechanical,HS,OPEN,Gender-Neutral,250000,Manipur
+NIT Manipur,Civil,HS,OPEN,Gender-Neutral,290000,Manipur
+NIT Nagaland,CSE,HS,OPEN,Gender-Neutral,140000,Nagaland
+NIT Nagaland,ECE,HS,OPEN,Gender-Neutral,210000,Nagaland
+NIT Nagaland,Mechanical,HS,OPEN,Gender-Neutral,270000,Nagaland
+NIT Nagaland,Civil,HS,OPEN,Gender-Neutral,310000,Nagaland
+SPA Delhi,Planning,HS,OPEN,Gender-Neutral,32000,Delhi
+SPA Bhopal,Planning,HS,OPEN,Gender-Neutral,42000,Madhya Pradesh
+SPAV Vijayawada,Planning,HS,OPEN,Gender-Neutral,45000,Andhra Pradesh
+IITRAM Ahmedabad,CSE,HS,OPEN,Gender-Neutral,45000,Gujarat
+IITRAM Ahmedabad,ECE,HS,OPEN,Gender-Neutral,60000,Gujarat
+IITRAM Ahmedabad,Mechanical,HS,OPEN,Gender-Neutral,75000,Gujarat
+IITRAM Ahmedabad,Civil,HS,OPEN,Gender-Neutral,90000,Gujarat
+GSV Vadodara,CSE,HS,OPEN,Gender-Neutral,42000,Gujarat
+GSV Vadodara,ECE,HS,OPEN,Gender-Neutral,55000,Gujarat
+GSV Vadodara,Mechanical,HS,OPEN,Gender-Neutral,70000,Gujarat
+GSV Vadodara,Civil,HS,OPEN,Gender-Neutral,85000,Gujarat
+Tezpur University,CSE,HS,OPEN,Gender-Neutral,35000,Assam
+Tezpur University,ECE,HS,OPEN,Gender-Neutral,48000,Assam
+Tezpur University,Mechanical,HS,OPEN,Gender-Neutral,65000,Assam
+Tezpur University,Civil,HS,OPEN,Gender-Neutral,85000,Assam
+University of Hyderabad,CSE,HS,OPEN,Gender-Neutral,32000,Telangana
+University of Hyderabad,ECE,HS,OPEN,Gender-Neutral,44000,Telangana
+University of Hyderabad,Mechanical,HS,OPEN,Gender-Neutral,60000,Telangana
+JNU,CSE,HS,OPEN,Gender-Neutral,28000,Delhi
+JNU,ECE,HS,OPEN,Gender-Neutral,38000,Delhi
+JNU,Mechanical,HS,OPEN,Gender-Neutral,52000,Delhi
+Central University of Rajasthan,CSE,HS,OPEN,Gender-Neutral,50000,Rajasthan
+Central University of Rajasthan,ECE,HS,OPEN,Gender-Neutral,65000,Rajasthan
+Central University of Rajasthan,Mechanical,HS,OPEN,Gender-Neutral,80000,Rajasthan
+Central University of Jammu,CSE,HS,OPEN,Gender-Neutral,55000,Jammu and Kashmir
+Central University of Jammu,ECE,HS,OPEN,Gender-Neutral,70000,Jammu and Kashmir
+Central University of Jammu,Mechanical,HS,OPEN,Gender-Neutral,85000,Jammu and Kashmir
+Central University of Haryana,CSE,HS,OPEN,Gender-Neutral,52000,Haryana
+Central University of Haryana,ECE,HS,OPEN,Gender-Neutral,68000,Haryana
+Central University of Haryana,Mechanical,HS,OPEN,Gender-Neutral,82000,Haryana
+Central University of Kashmir,CSE,HS,OPEN,Gender-Neutral,58000,Jammu and Kashmir
+Central University of Kashmir,ECE,HS,OPEN,Gender-Neutral,72000,Jammu and Kashmir
+Central University of Kashmir,Mechanical,HS,OPEN,Gender-Neutral,88000,Jammu and Kashmir
+Guru Ghasidas Vishwavidyalaya,CSE,HS,OPEN,Gender-Neutral,48000,Chhattisgarh
+Guru Ghasidas Vishwavidyalaya,ECE,HS,OPEN,Gender-Neutral,62000,Chhattisgarh
+Guru Ghasidas Vishwavidyalaya,Mechanical,HS,OPEN,Gender-Neutral,78000,Chhattisgarh
+Guru Ghasidas Vishwavidyalaya,Civil,HS,OPEN,Gender-Neutral,92000,Chhattisgarh
+Assam University Silchar,CSE,HS,OPEN,Gender-Neutral,50000,Assam
+Assam University Silchar,ECE,HS,OPEN,Gender-Neutral,65000,Assam
+Assam University Silchar,Mechanical,HS,OPEN,Gender-Neutral,82000,Assam
+Mizoram University,CSE,HS,OPEN,Gender-Neutral,55000,Mizoram
+Mizoram University,ECE,HS,OPEN,Gender-Neutral,70000,Mizoram
+Mizoram University,Mechanical,HS,OPEN,Gender-Neutral,88000,Mizoram
+SLIET Longowal,CSE,HS,OPEN,Gender-Neutral,40000,Punjab
+SLIET Longowal,ECE,HS,OPEN,Gender-Neutral,54000,Punjab
+SLIET Longowal,Mechanical,HS,OPEN,Gender-Neutral,72000,Punjab
+SLIET Longowal,Civil,HS,OPEN,Gender-Neutral,88000,Punjab
+SMVDU Katra,CSE,HS,OPEN,Gender-Neutral,38000,Jammu and Kashmir
+SMVDU Katra,ECE,HS,OPEN,Gender-Neutral,52000,Jammu and Kashmir
+SMVDU Katra,Mechanical,HS,OPEN,Gender-Neutral,70000,Jammu and Kashmir
+SMVDU Katra,Civil,HS,OPEN,Gender-Neutral,85000,Jammu and Kashmir
+GKV Haridwar,CSE,HS,OPEN,Gender-Neutral,60000,Uttarakhand
+GKV Haridwar,ECE,HS,OPEN,Gender-Neutral,75000,Uttarakhand
+GKV Haridwar,Mechanical,HS,OPEN,Gender-Neutral,90000,Uttarakhand
+IIIT Bhubaneswar,CSE,HS,OPEN,Gender-Neutral,25000,Odisha
+IIIT Bhubaneswar,ECE,HS,OPEN,Gender-Neutral,36000,Odisha
+IIIT Bhubaneswar,Mechanical,HS,OPEN,Gender-Neutral,52000,Odisha
+NIT Mizoram,Mechanical,OS,OPEN,Gender-Neutral,58500,Mizoram
+NIT Mizoram,Civil,OS,OPEN,Gender-Neutral,64200,Mizoram
+NIT Nagaland,Civil,OS,OPEN,Gender-Neutral,62800,Nagaland
+NIT Nagaland,Mechanical,OS,OPEN,Gender-Neutral,59100,Nagaland
+NIT Srinagar,Metallurgical,OS,OPEN,Gender-Neutral,56400,Jammu and Kashmir
+NIT Srinagar,Civil,OS,OPEN,Gender-Neutral,58900,Jammu and Kashmir
+NIT Arunachal Pradesh,Mechanical,OS,OPEN,Gender-Neutral,57300,Arunachal Pradesh
+NIT Arunachal Pradesh,Civil,OS,OPEN,Gender-Neutral,63100,Arunachal Pradesh
+NIT Sikkim,Mechanical,OS,OPEN,Gender-Neutral,55600,Sikkim
+NIT Sikkim,Civil,OS,OPEN,Gender-Neutral,61200,Sikkim
+NIT Manipur,Mechanical,OS,OPEN,Gender-Neutral,56800,Manipur
+NIT Manipur,Civil,OS,OPEN,Gender-Neutral,62500,Manipur
+GKV Haridwar,Mechanical,OS,OPEN,Gender-Neutral,84500,Uttarakhand
+GKV Haridwar,Electrical,OS,OPEN,Gender-Neutral,76200,Uttarakhand
+Mizoram University,Mechanical,OS,OPEN,Gender-Neutral,95600,Mizoram
+Mizoram University,Civil,OS,OPEN,Gender-Neutral,105400,Mizoram
+Mizoram University,Electrical,OS,OPEN,Gender-Neutral,89200,Mizoram
+Assam University Silchar,Agricultural,OS,OPEN,Gender-Neutral,112000,Assam
+Assam University Silchar,Mechanical,OS,OPEN,Gender-Neutral,78400,Assam
+Assam University Silchar,Civil,OS,OPEN,Gender-Neutral,86900,Assam
+SLIET Longowal,Mechanical,OS,OPEN,Gender-Neutral,81200,Punjab
+SLIET Longowal,Chemical,OS,OPEN,Gender-Neutral,92600,Punjab
+SLIET Longowal,Electrical,OS,OPEN,Gender-Neutral,74300,Punjab
+SMVDU Katra,Mechanical,OS,OPEN,Gender-Neutral,85900,Jammu and Kashmir
+SMVDU Katra,Civil,OS,OPEN,Gender-Neutral,96400,Jammu and Kashmir
+Central University of Jammu,🎒 CSE,OS,OPEN,Gender-Neutral,68400,Jammu and Kashmir
+Central University of Jammu,Cyber Security,OS,OPEN,Gender-Neutral,79200,Jammu and Kashmir
+Central University of Haryana,Electrical,OS,OPEN,Gender-Neutral,76800,Haryana
+Central University of Haryana,Civil,OS,OPEN,Gender-Neutral,88400,Haryana
+Guru Ghasidas Vishwavidyalaya,Industrial,OS,OPEN,Gender-Neutral,99400,Chhattisgarh
+Guru Ghasidas Vishwavidyalaya,Chemical,OS,OPEN,Gender-Neutral,91200,Chhattisgarh
+Guru Ghasidas Vishwavidyalaya,Machine Design,OS,OPEN,Gender-Neutral,104000,Chhattisgarh
+Harcourt Butler Technical University,Leather Technology,OS,OPEN,Gender-Neutral,115000,Uttar Pradesh
+Central University of Jharkhand,Metallurgical,OS,OPEN,Gender-Neutral,89000,Jharkhand
+Central University of Jharkhand,Civil,OS,OPEN,Gender-Neutral,94500,Jharkhand
+BIT Deoghar,Production Engineering,OS,OPEN,Gender-Neutral,108500,Jharkhand
+NIT Jamshedpur,Production Engineering,OS,OPEN,Gender-Neutral,55000,Jharkhand
+NIT Jamshedpur,Metallurgical,OS,OPEN,Gender-Neutral,58000,Jharkhand
+NIT Patna,Production Engineering,OS,OPEN,Gender-Neutral,56500,Bihar
+BIT Mesra,Biotechnology,OS,OPEN,Gender-Neutral,82000,Jharkhand
+BIT Mesra,Chemical Engineering,OS,OPEN,Gender-Neutral,68000,Jharkhand
+Central University of Jharkhand,Environmental Engineering,OS,OPEN,Gender-Neutral,118000,Jharkhand
+Gani Khan Choudhury Institute,Electrical Engineering,OS,OPEN,Gender-Neutral,95000,West Bengal
+Gani Khan Choudhury Institute,Food Technology,OS,OPEN,Gender-Neutral,135000,West Bengal
+NIFTEM Kundli,Food Technology,OS,OPEN,Gender-Neutral,112000,Haryana
+NIFTEM Thanjavur,Food Technology,OS,OPEN,Gender-Neutral,124000,Tamil Nadu
+Central Institute of Technology CIT Kokrajhar,CSE,OS,OPEN,Gender-Neutral,64000,Assam
+Central Institute of Technology CIT Kokrajhar,ECE,OS,OPEN,Gender-Neutral,78000,Assam
+Central Institute of Technology CIT Kokrajhar,Civil Engineering,OS,OPEN,Gender-Neutral,115000,Assam
+Sant Longowal Institute SLIET,Food Technology,OS,OPEN,Gender-Neutral,128000,Punjab
+Mizoram University,CSE,OS,OPEN,Gender-Neutral,62000,Mizoram
+Mizoram University,Information Technology,OS,OPEN,Gender-Neutral,69000,Mizoram
+Tezpur University,Food Engineering,OS,OPEN,Gender-Neutral,105000,Assam
+Tezpur University,Civil Engineering,OS,OPEN,Gender-Neutral,89000,Assam
+North Eastern Regional Institute NERIST,Mechanical,OS,OPEN,Gender-Neutral,92000,Arunachal Pradesh
+North Eastern Regional Institute NERIST,Civil,OS,OPEN,Gender-Neutral,108000,Arunachal Pradesh
+National Institute of Advanced Manufacturing NIAMT,Manufacturing Engineering,OS,OPEN,Gender-Neutral,65000,Jharkhand
+National Institute of Advanced Manufacturing NIAMT,Metallurgical,OS,OPEN,Gender-Neutral,72000,Jharkhand
+Pondicherry Engineering College,CSE,OS,OPEN,Gender-Neutral,42000,Puducherry
+Pondicherry Engineering College,ECE,OS,OPEN,Gender-Neutral,58000,Puducherry
+Pondicherry Engineering College,Civil Engineering,OS,OPEN,Gender-Neutral,96000,Puducherry
+Jawaharlal Nehru Government Engineering College,CSE,OS,OPEN,Gender-Neutral,74000,Himachal Pradesh
